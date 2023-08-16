@@ -67,4 +67,28 @@ Cover linear search and binary search algorithms. Explain their principles, time
 
 ## Dynamic Programming
 
-Discuss dynamic programming as an optimization technique for solving problems with overlapping subproblems. Provide examples and explain the concept of
+Discuss dynamic programming as an optimization technique for solving problems with overlapping subproblems. Provide examples and explain the concept of memoization.
+
+## Greedy Algorithms
+
+Explain greedy algorithms and their approach of making locally optimal choices. Provide examples of problems where greedy algorithms are applicable.
+
+## Recursion
+
+Introduce recursion and how it can be used to solve complex problems by breaking them down into smaller subproblems. Include the concept of base cases and recursive functions.
+
+## Common Algorithmic Problems
+
+List and briefly explain some common algorithmic problems like the knapsack problem, shortest path algorithms, and more. Provide references to where users can find in-depth explanations and solutions.
+
+## Additional Resources
+
+Provide links to external resources, online courses, books, and coding platforms where users can further expand their knowledge of data structures and algorithms.
+
+## Contributing
+
+If you'd like to contribute to this repository, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/johndeniel/DataVerse/blob/main/LICENSE.md).
